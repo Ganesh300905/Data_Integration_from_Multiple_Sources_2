@@ -12,5 +12,7 @@
 
 **Mentor Name**:NEELA SANTHOSH
 
+This Power BI sales dashboard provides a comprehensive overview of key performance indicators (KPIs) related to product sales and revenue, utilizing data integration from SQL (Sales data) and Excel (Product data). The dashboard visualizes various metrics that offer valuable insights for businesses, enabling them to monitor and analyze sales trends, revenue performance, and product performance across different categories and months.This Power BI sales dashboard effectively integrates sales data from SQL and product data from Excel to provide a visual representation of key sales and revenue metrics. The dashboard’s interactive charts allow businesses to track performance by category, month, and other dimensions. By analyzing this data, businesses can make informed decisions on inventory, sales strategies, and marketing efforts to improve overall performance. The integration of these data sources ensures that all relevant information is available in one place, streamlining the analysis process and helping businesses monitor and drive growth.
+
 # OUTPUT OF THE TASK
 ![Image](https://github.com/user-attachments/assets/8f2a7c69-d361-4fca-b37d-b38dc2b494f1)
